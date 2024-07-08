@@ -45,7 +45,7 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://localhost:6000",
+  "proxy": "chat-app-phi-two.vercel.app",
   "devDependencies": {
     "daisyui": "^4.12.10"
   }
